@@ -145,6 +145,58 @@ p{
         width:80%;
 
       }
+      .update{
+        text-align: center;
+        position: center;
+       width: 100%;
+       margin-bottom: 50%;
+       margin-bottom: 10px;
+      }
+      .subscribe-area{
+        text-decoration: none;
+        text-align: center;
+        background-color:rgb(238, 203, 157);
+        padding: 50px 30px;
+        font-weight: 600;
+        border-radius: 10px;
+       }
+       #email{
+        text-decoration: none;
+        text-align: left;
+        background-color: gray;
+        padding: 20px 200px;
+        color: rgb(56, 52, 52);
+        font-weight: 600;
+        border-radius: 10px;
+
+       }
+       #subs{
+        text-decoration: none;
+        background-color: rgb(238, 62, 62);
+        padding: 20px 40px;
+        color: rgb(56, 52, 52);
+        font-weight: 600;
+        border-radius: 10px;
+
+
+       }
+      .end{
+        margin-top: 100px;
+        text-align: center;
+        background-color: black;
+
+    
+      }
+      #hum{
+        text-decoration: wavy;
+        color: brown;
+        font-size: 30px;
+        font-style: italic;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      #do{
+      color: rgb(250, 250, 240);
+      }
     
     
 
