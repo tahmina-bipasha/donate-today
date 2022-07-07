@@ -7,6 +7,11 @@ h1{
     font-size: 70px;
     
 }
+#sub{
+    font-size: 40px;
+}
+    
+
 p{
     font-size: 20px;
     
@@ -119,9 +124,28 @@ p{
     padding: 50px 30px;
     margin-right: 10%;
         
-               
-                  }
-        
+      }
+      .contribute-button{
+        text-decoration: none;
+        background-color: brown;
+        padding: 20px 40px;
+        color: white;
+        font-weight: 600;
+        border-radius: 10px;
+        margin-top: 200px;
+
+      }
+      .half-width{
+        width: 50%;
+        padding-left: 10%;
+        padding-right: 5%;
+
+      }
+      .half-width img{
+        width:80%;
+
+      }
+    
     
 
     
