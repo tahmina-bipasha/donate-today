@@ -30,6 +30,7 @@ section{
     color: white;
     font-weight: 600;
     border-radius: 10px;
+    border-top: 100px;
 
 
 }
@@ -40,3 +41,51 @@ section{
     background-repeat: no-repeat;
     height: 100vh;
 }
+#second{
+    font-size: 40px;
+}
+#text{
+    color: gray;
+}
+.second-part{
+    text-align: center;
+    position: center;
+    width: 100%;
+    padding-top: 100px;
+    margin-bottom: 10px;
+   
+}
+#same{
+    text-decoration: none;
+    padding: 40px 30px;
+    background-color: rgb(248, 246, 242);
+    color: rgb(53, 49, 49);
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 100px;
+}
+ #two{
+        text-decoration: none;
+        padding: 40px 30px;
+        background-color: pink;
+        color: red;
+        border-style:solid;
+        font-size: 30px;
+        font-weight: 900;
+       margin-top: 100px;
+
+}
+#amount-text{
+    margin-top: 100px;
+}
+    .line{
+        border-bottom: 2px solid rgb(190, 188, 188);
+        margin-top: 5px;
+        width: 50%;
+        position: center;
+        margin: auto;
+        
+     
+    }
+
+    
